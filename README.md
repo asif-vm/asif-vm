@@ -43,6 +43,9 @@ Hotel food ordering management platform with role-based access control
 - **Tech**: Python, Django, HTML/CSS, SQLite
 - **Impact**: Handles 200+ daily orders efficiently
 
+### 📈 [Stock Price Predictor](https://github.com/asif-vm/stock-predictor)
+Full-stack ML app with FastAPI + Streamlit | [Live Demo](https://stock-price-predictor-vrs.streamlit.app/))
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-v-m-5481a024a)
