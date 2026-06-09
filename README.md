@@ -1,60 +1,56 @@
-# Hi there, I'm Asif 👋
+# Hi, I'm Asif 👋
 
-## 🎓 About Me
+**AI/ML Engineer** · M.Sc. Computer Science (Data Science & Big Data Analytics) · Yenepoya University, Bengaluru
 
-I'm a **Data Science graduate student** at Yenepoya University, Bengaluru, passionate about transforming complex data into actionable insights through **Machine Learning** and **Data Analytics**.
-
-- 🔭 Currently pursuing M.Sc. in Computer Science (Data Science with minor in Big Data Analytics)
-- 🌱 Building data-driven solutions using Python, Django, and ML
-- 💼 Actively seeking **Data Analyst** and **ML Engineer** internship opportunities
-- 📍 Based in Bengaluru, Karnataka, India
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-```
-Python • SQL • JavaScript • Django • Flask • Streamlit
-```
-
-**Data Science & Analytics:**
-```
-Pandas • NumPy • Scikit-learn • Plotly • Matplotlib • Statistical Analysis
-```
-
-**Tools & Platforms:**
-```
-Git • Docker • Jupyter • Google Colab • VS Code • MySQL • PostgreSQL
-```
-
-## 🚀 Featured Projects
-
-### 📊 [Electoral Roll Outlier Detection System](https://github.com/asif-vm/Electoral-roll-outlier-detection)
-Interactive data analytics tool that processes 100,000+ voter records to identify administrative anomalies with 95% accuracy
-- **Tech**: Python, Streamlit, Pandas, Plotly
-- **Impact**: Reduces manual review time by 70%
-
-### 🗓️ Time Table Generation System
-Automated academic scheduling system using constraint satisfaction algorithms
-- **Tech**: Python, Django, Google OR-Tools, SQLite
-- **Impact**: Reduces manual scheduling time by 80%
-
-### 🍽️ EAZY DINE - Food Ordering System
-Hotel food ordering management platform with role-based access control
-- **Tech**: Python, Django, HTML/CSS, SQLite
-- **Impact**: Handles 200+ daily orders efficiently
-
-### 📈 [Stock Price Predictor](https://github.com/asif-vm/stock-predictor)
-Full-stack ML app with FastAPI + Streamlit | [Live Demo](https://stock-price-predictor-vrs.streamlit.app/))
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-v-m-5481a024a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifvm15@gmail.com)
-
-## 📊 GitHub Stats
-
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif-vm&show_icons=true&theme=radical)
+I build production-grade ML systems — from RAG pipelines and LLM applications to algorithmic trading engines. Currently seeking roles in **Data Science**, **ML Engineering**, and **AI/LLM Engineering** across the Gulf, Europe, and Southeast Asia.
 
 ---
 
-💡 **Open to collaborations and internship opportunities in Data Science and Machine Learning!**
+## 🚀 Featured Projects
+
+### 🔍 [FinSight — Financial Document Intelligence](https://github.com/asif-vm/finsight)
+Production RAG system for natural language querying of financial documents.
+- LangChain · ChromaDB · Groq (Llama 3 70B) · FastAPI · React · Docker
+- MMR retrieval with source-grounded responses and page-level citations
+
+### 📈 [Institutional Algorithmic Trading Engine](https://github.com/asif-vm/trading-engine)
+End-to-end quant trading system built as internship capstone at Quantum Learnings.
+- HMM market regime detection · Black-Litterman optimization · CVaR risk management
+- FastAPI + Streamlit · Polygon.io · Alpaca API · 85% directional accuracy on NSE/NYSE
+
+### 🤖 [NLP Financial Chatbot](https://github.com/asif-vm/nlp-chatbot)
+Domain-specific chatbot with HuggingFace transformers and React frontend.
+- PyTorch · HuggingFace · Flask · React
+
+### 📊 [Sentiment & Emotional Support App](https://github.com/asif-vm/sentiment-app)
+Real-time sentiment analysis with emotional support responses.
+- Streamlit · HuggingFace · Transformers
+
+---
+
+## 🛠️ Tech Stack
+
+**ML & AI:** Python · PyTorch · TensorFlow · HuggingFace · LangChain · scikit-learn
+
+**Data & Backend:** FastAPI · Flask · Streamlit · SQL · Pandas · NumPy
+
+**Infrastructure:** Docker · AWS · Azure · ChromaDB · Pinecone
+
+**Analytics:** Power BI · Plotly · Matplotlib
+
+---
+
+## 🏅 Certifications
+
+IBM Data Science Professional · Google Cloud Data Analytics · Microsoft AZ-900
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-v-m-5481a024a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asifvm15@gmail.com)
+
+---
+
+![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif-vm&show_icons=true&theme=radical&hide_border=true)
