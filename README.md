@@ -19,7 +19,7 @@ M.Sc. Computer Science (Data Science & Big Data Analytics), building reproducibl
 
 - [FinSight](https://github.com/asif-vm/Finsight) - financial-document RAG with LangChain, ChromaDB, FastAPI, React, and Docker.
 - [Electoral Roll Outlier Detection](https://github.com/asif-vm/Electoral-roll-outlier-detection) - large-scale anomaly detection and interactive review workflow.
-- [E-Commerce Sales Analytics](https://github.com/asif-vm/--E-Commerce-Sales-Analytics-Dashboard) - SQL, AWS, Power BI, customer segmentation, and cohort analytics.
+- [E-Commerce Sales Analytics](https://github.com/asif-vm/ecommerce-sales-analytics) - SQL, AWS, Power BI, customer segmentation, and cohort analytics.
 - [Stock Price Predictor](https://github.com/asif-vm/stock-price-predictor) - FastAPI and Streamlit application for market features and model inference.
 
 ## Core toolkit
