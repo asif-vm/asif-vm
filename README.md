@@ -14,6 +14,8 @@ M.Sc. Computer Science (Data Science & Big Data Analytics), building reproducibl
 | Data Analyst | [Bank Complaint Operations Intelligence](https://github.com/asif-vm/bank-complaint-intelligence) | Governed KPIs, SQL marts, quality checks, and an interactive operations dashboard |
 | Data Engineer | [Retail CDC Lakehouse](https://github.com/asif-vm/retail-cdc-lakehouse) | Replay-safe CDC, deterministic current-state reconstruction, Bronze/Silver/Gold modelling, and CI |
 | AI/ML Engineer | [Aircraft Predictive Maintenance](https://github.com/asif-vm/aircraft-predictive-maintenance) | NASA C-MAPSS RUL model with 13.13-cycle MAE and 80% critical-window recall on unseen engines |
+| Data Analyst / Engineer | [Urban Mobility Operations Analytics](https://github.com/asif-vm/urban-mobility-operations-analytics) | PySpark transformations, Airflow orchestration, dbt tests, DuckDB marts, and Power BI-ready measures |
+| AI/ML Engineer | [Visual Quality Inspection MLOps](https://github.com/asif-vm/visual-quality-inspection-mlops) | PyTorch CNN, MLflow integration, FastAPI serving, drift monitoring, Docker, Kubernetes, and CI |
 
 ## Additional projects
 
@@ -26,7 +28,7 @@ M.Sc. Computer Science (Data Science & Big Data Analytics), building reproducibl
 
 **Analytics:** SQL, Excel, Power BI, pandas, DuckDB, Plotly, statistical analysis  
 **Data engineering:** Python, PostgreSQL, PySpark, Airflow, dbt, Kafka, AWS, Docker, CI/CD  
-**AI/ML:** scikit-learn, time series, anomaly detection, NLP, RAG, FastAPI, model evaluation and monitoring
+**AI/ML:** PyTorch, scikit-learn, time series, computer vision, anomaly detection, NLP, RAG, FastAPI, model evaluation and monitoring
 
 ## Current focus
 
